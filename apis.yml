@@ -1,7 +1,7 @@
 aid: defense-counterintelligence-and-security-agency
 url: https://raw.githubusercontent.com/api-evangelist/defense-counterintelligence-and-security-agency/refs/heads/main/apis.yml
 apis: []
-name: Defense Counterintelligence and Security Agency (DCSA)
+name: Defense Counterintelligence and Security Agency
 tags:
   - Federal Government
 type: Contract
