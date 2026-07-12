@@ -31,6 +31,8 @@ created: '2024-12-25'
 modified: '2026-04-28'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/defense-counterintelligence-and-security-agency-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/dcsagov
   - type: Website
