@@ -30,6 +30,15 @@ position: Consuming
 specificationVersion: '0.23'
 kind: government
 tags:
+  - Federal-Government
+  - Defense
+  - Department of Defense
+  - Counterintelligence
+  - Security
+  - Personnel Vetting
+  - Background Investigations
+  - Insider Threat
+tags_raw:
   - Federal Government
   - Defense
   - Department of Defense
